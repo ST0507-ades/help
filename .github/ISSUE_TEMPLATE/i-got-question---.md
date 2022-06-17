@@ -10,18 +10,10 @@ assignees: jeremiah-ang
 ## I have been trying to...
 > Describe in detail what you are trying to achieve
 
-##### Example:
-- When __________(actor) wants to __________(achieve something), 
-- They will do __________(action), 
-    - Step 1: __________
-    - Step 2: __________
-- and then they should see __________(expected outcome)
 
 ## But instead, I am seeing...
 > Describe what is actually happening instead of the expected outcome.
 
-##### Example
-- But instead, __________(unexpected outcome) happens instead.
 
 ## These are the full verbose logs 
 
